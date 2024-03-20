@@ -33,5 +33,12 @@ entries:
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
+
+  - title: writing Idiomatic python
+    post_list:
+      category: writing Idiomatic python
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: example2-archive.html
   - title: rss
     url: feed.xml
