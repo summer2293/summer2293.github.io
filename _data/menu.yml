@@ -34,11 +34,20 @@ entries:
       show_more_text: See more posts...
       show_more_url: example2-archive.html
 
-  - title: 🐍 writing Idiomatic python
+  - title: 🐍 [2022]Writing Idiomatic python
     post_list:
       category: writing Idiomatic python
+      limit: 0
       show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_url: Writing Idiomatic python-archive.html
+
+
+  - title: 🐐 [2020]Test-driven development for clean code
+    post_list:
+      category: Test-driven development for clean code
+      limit: 0
+      show_more: true
+      show_more_url: Test-driven development for clean code-archive.html
+
   - title: rss
     url: feed.xml
