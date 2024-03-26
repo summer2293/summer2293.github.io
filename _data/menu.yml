@@ -49,5 +49,13 @@ entries:
       show_more: true
       show_more_url: Test-driven development for clean code-archive.html
 
+  - title: 🪵 [2023] Understanding the Digital World
+    post_list:
+      category: Understanding the Digital World
+      limit: 0
+      show_more: true
+      show_more_url: Understanding the Digital World.html
+
+
   - title: rss
     url: feed.xml
