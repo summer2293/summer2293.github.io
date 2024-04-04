@@ -56,6 +56,12 @@ entries:
       show_more: true
       show_more_url: Understanding the Digital World.html
 
+  - title: 🧼 [2023] Clean Architecture
+    post_list:
+      category: Clean Architecture
+      limit: 0
+      show_more: true
+      show_more_url: Clean Architecture
 
   - title: rss
     url: feed.xml
